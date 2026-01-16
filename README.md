@@ -3,6 +3,8 @@
 [![GitHub all releases](https://img.shields.io/github/downloads/Pointifix/AutoDrill/total)](https://github.com/Pointifix/AutoDrill/releases)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Pointifix/AutoDrill?style=social)
 
+Seeing if it can run on v146. Need to chnge min version.
+
 Mindustry Mod which adds tools to automatically fill a resource patch with drills.
 
 Enable the mod by the activation key (default `H`) or by clicking the activation button next to the minimap.
